@@ -8,7 +8,7 @@
 
         //array of custom settings
         var settings = {
-            'date': null,
+            'date': "2021-04-30T22:00:00Z",
             'format': null
         };
 
